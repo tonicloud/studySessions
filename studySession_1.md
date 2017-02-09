@@ -2,7 +2,7 @@
 
 ## Methods
 
-http://www.w3schools.com/js/functions.asp
+http://www.w3schools.com/JS/js_functions.asp
 
 *Simple JS Methods for example.*
 
